@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lu Li at tsinghua SIGS
-- 👀 I’m interested in deep reinforcement learning
+- 👀 I’m interested in machine learning and reinforcement learning
 
 
 <!---
