@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Lu Li at tsinghua SIGS
-- 👀 I’m interested in machine learning and reinforcement learning
+Hi, I’m Lu Li at Tsinghua SIGS. I’m interested in machine learning and reinforcement learning.
 
 
 <!---
