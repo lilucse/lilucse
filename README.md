@@ -1,4 +1,5 @@
-Hi, I’m Lu Li at Tsinghua SIGS. I’m interested in machine learning and reinforcement learning.
+Hi, I’m Lu Li. I am currently a PhD student at Mila and the University of Montreal.
+I’m interested in machine learning and reinforcement learning.
 
 
 <!---
