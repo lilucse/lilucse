@@ -1,4 +1,4 @@
-Hi, I’m Lu Li. I am currently a PhD student at Mila and the University of Montreal.
+Hi, I’m Lu Li. I am currently a PhD student at Mila and University of Montreal.
 
 I’m interested in deep learning and reinforcement learning.
 
