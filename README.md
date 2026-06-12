@@ -4,6 +4,8 @@ I am currently a PhD student at Mila - Quebec AI Institute and University of Mon
 
 I’m interested in reinforcement learning and deep learning.
 
+My work treats deep learning and reinforcement learning as empirical sciences, prioritizing rigorous experimentation and ablation.
+
 <!---
 lilucse/lilucse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
